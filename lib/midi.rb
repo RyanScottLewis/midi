@@ -1,8 +1,7 @@
-$LOAD_PATH.unshift(File.dirname(__FILE__))
+LOAD_PATH.unshift(File.dirname(__FILE__))
 
 module Midi
   VERSION = "0.1.0"
 end
 
-require 'midi/sysex/manufacturers'
 require 'midi/sysex'

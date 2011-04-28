@@ -1,7 +1,9 @@
 
+# TODO: MAKE OHBAD INTO GEM AND REMOVE NEXT LINE:
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), "..", "..", "ohbad", "lib"))
 require 'ohbad'
 
+require 'midi/sysex/manufacturers'
 
 module Midi
   class SysEx
