@@ -8,9 +8,7 @@ Easily generate MIDI SysEx Strings.
 
 # Install
 
-    git clone git://github.com/c00lryguy/sysex.git
-    cd ohbad
-    rake test
+    gem install midi
 
 # Documentation
 
