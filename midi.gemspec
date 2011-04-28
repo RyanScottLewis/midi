@@ -27,6 +27,7 @@ Gem::Specification.new do |s|
     "lib/midi.rb",
     "lib/midi/sysex.rb",
     "lib/midi/sysex/manufacturers.rb",
+    "midi.gemspec",
     "test/helper.rb",
     "test/test_midi.rb"
   ]
