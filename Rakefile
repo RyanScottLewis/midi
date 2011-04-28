@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'bundler'
 require 'psych'
+YAML::ENGINE.yamler = 'psych'
 begin
   Bundler.setup(:default, :development)
 rescue Bundler::BundlerError => e

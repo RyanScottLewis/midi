@@ -19,7 +19,7 @@ Easily generate MIDI SysEx Strings.
 # Example
 
 
-## Contributing to ohbad
+## Contributing to midi
 
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
