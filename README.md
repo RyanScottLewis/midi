@@ -14,20 +14,10 @@ Easily generate MIDI SysEx Strings.
 
 # Documentation
 
-[GitHub](http://rubydoc.info/github/c00lryguy/sysex)
+[GitHub](http://rubydoc.info/github/c00lryguy/midi)
 
 # Example
 
-### Byte
-
-    require 'ohbad'
-
-    oh_so_very_bad = Ohbad::Byte.from_ascii("a")
-    p oh_so_very_bad.to_hex   # => "61"
-    p oh_so_very_bad.to_dec   # => "97"
-    p oh_so_very_bad.to_oct   # => "141"
-    p oh_so_very_bad.to_bin   # => "01100001"
-    p oh_so_very_bad.to_ascii # => "a"
 
 ## Contributing to ohbad
 
